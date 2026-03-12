@@ -1,0 +1,151 @@
+emoji,name,Depressed,Sad,Neutral,Happy,Excitement
+🌈,rainbow,0.024,0.06,0.31,0.567,0.408
+🌙,crescent moon,0,0,0.69,0.268,0.136
+🌚,new moon face,0.112,0.19,0.58,0.318,0.204
+🌞,sun with face,0,0,0.22,0.612,0.378
+🌟,glowing star,0,0,0.47,0.455,0.362
+🌷,tulip,0,0,0.56,0.401,0.176
+🌸,cherry blossom,0,0,0.44,0.458,0.308
+🌹,rose,0,0,0.28,0.5,0.29
+🌺,hibiscus,0,0,0.61,0.306,0.192
+🍀,four leaf clover,0,0,0.53,0.446,0.32
+🍃,leaf fluttering in wind,0.068,0.17,0.69,0.17,0.062
+🍕,pizza,0.06,0.06,0.53,0.446,0.29
+🍻,clinking beer mugs,0,0,0.28,0.636,0.438
+🎀,ribbon,0,0,0.56,0.434,0.392
+🎈,balloon,0.06,0.06,0.53,0.404,0.374
+🎉,party popper,0,0,0.08,0.743,0.668
+🎤,microphone,0.068,0.08,0.61,0.39,0.204
+🎥,movie camera,0,0,0.72,0.217,0.178
+🎧,headphone,0,0,0.56,0.332,0.176
+🎵,musical note,0.032,0.08,0.53,0.404,0.236
+🎶,musical notes,0,0,0.53,0.395,0.32
+👀,eyes,0.32,0.17,0.19,0.243,0.384
+👅,tongue,0,0,0.64,0.303,0.192
+👇,backhand index pointing down,0.036,0,0.86,0.042,0
+👈,backhand index pointing left,0,0,0.83,0.051,0.036
+👉,backhand index pointing right,0,0,0.75,0.075,0.018
+👊,oncoming fist,0.066,0,0.39,0.262,0.088
+👋,waving hand,0,0,0.72,0.238,0.136
+👌,OK hand,0,0,0.44,0.262,0.22
+👍,thumbs up,0.072,0.06,0.53,0.39,0.24
+👎,thumbs down,0.208,0.31,0.33,0.024,0.084
+👏,clapping hands,0,0,0.36,0.565,0.406
+👑,crown,0,0,0.72,0.271,0.178
+👻,ghost,0.458,0.11,0.31,0.024,0.186
+💀,skull,0.49,0.31,0.39,0.063,0.048
+💁,person tipping hand,0.06,0.06,0.67,0.197,0.158
+💃,woman dancing,0,0,0.31,0.516,0.378
+💋,kiss mark,0,0,0.22,0.63,0.426
+💎,gem stone,0.036,0,0.5,0.324,0.282
+💐,bouquet,0.044,0.11,0.31,0.6,0.492
+💓,beating heart,0.048,0,0.33,0.568,0.358
+💔,broken heart,0.46,0.94,0.0600000000000001,0.057,0.048
+💕,two hearts,0,0,0.17,0.674,0.398
+💖,sparkling heart,0,0,0.11,0.722,0.506
+💗,growing heart,0,0,0.11,0.731,0.488
+💘,heart with arrow,0.092,0.14,0.33,0.562,0.304
+💙,blue heart,0.068,0.17,0.39,0.502,0.346
+💚,green heart,0.012,0.03,0.42,0.439,0.25
+💛,yellow heart,0.032,0.08,0.47,0.404,0.26
+💜,purple heart,0.08,0.11,0.53,0.362,0.236
+💞,revolving hearts,0,0,0.17,0.656,0.464
+💤,zzz,0.092,0.14,0.64,0.185,0.08
+💥,collision,0.242,0.14,0.56,0.134,0.23
+💦,sweat droplets,0.092,0.14,0.86,0.033,0
+💩,pile of poo,0.012,0.03,0.36,0.199,0.214
+💪,flexed biceps,0,0,0.58,0.387,0.216
+💫,dizzy,0.036,0,0.56,0.365,0.29
+💭,thought balloon,0.11,0.11,0.36,0.311,0.17
+💯,hundred points,0.06,0.06,0.36,0.532,0.37
+💰,money bag,0.06,0.06,0.42,0.503,0.338
+📷,camera,0,0,0.81,0.155,0.104
+🔞,no one under eighteen,0.062,0.11,0.81,0.089,0.032
+🔥,fire,0.146,0.11,0.53,0.241,0.334
+🔫,pistol,0.14,0.14,0.56,0.063,0.012
+🔴,red circle,0.078,0.03,0.81,0.018,0.114
+😀,grinning face,0.06,0.06,0.31,0.549,0.36
+😁,beaming face with smiling eyes,0.072,0.06,0.11,0.698,0.554
+😂,face with tears of joy,0.036,0,0.0600000000000001,0.709,0.574
+😃,grinning face with big eyes,0.036,0,0.17,0.674,0.53
+😄,grinning face with smiling eyes,0,0,0.14,0.71,0.512
+😅,grinning face with sweat,0.192,0.06,0.56,0.426,0.384
+😆,grinning squinting face,0.06,0.06,0.0600000000000001,0.715,0.526
+😇,smiling face with halo,0,0,0.28,0.597,0.39
+😈,smiling face with horns,0.146,0.08,0.56,0.363,0.15
+😉,winking face,0.032,0.08,0.53,0.434,0.344
+😊,smiling face with smiling eyes,0,0,0.08,0.77,0.566
+😋,face savoring food,0,0,0.22,0.687,0.426
+😌,relieved face,0.066,0,0.19,0.666,0.456
+😍,smiling face with heart-eyes,0,0,0.17,0.674,0.632
+😎,smiling face with sunglasses,0,0,0.25,0.591,0.336
+😏,smirking face,0.172,0.22,0.67,0.253,0.154
+😐,neutral face,0.202,0.25,0.67,0.141,0.21
+😑,expressionless face,0.216,0.33,0.53,0.066,0.114
+😒,unamused face,0.27,0.42,0.36,0.042,0.066
+😓,downcast face with sweat,0.528,0.36,0.36,0.132,0.102
+😔,pensive face,0.456,0.72,0.28,0.066,0.114
+😕,confused face,0.372,0.39,0.58,0.126,0.168
+😖,confounded face,0.512,0.53,0.33,0.164,0.098
+😘,face blowing a kiss,0,0,0.28,0.603,0.39
+😙,kissing face with smiling eyes,0,0,0.17,0.722,0.434
+😚,kissing face with closed eyes,0,0,0.14,0.734,0.476
+😛,face with tongue,0.018,0,0.31,0.576,0.444
+😜,winking face with tongue,0.036,0,0.36,0.574,0.424
+😝,squinting face with tongue,0.048,0,0.17,0.647,0.464
+😞,disappointed face,0.566,0.92,0.08,0.057,0.036
+😟,worried face,0.708,0.69,0.28,0.132,0.102
+😠,angry face,0.202,0.25,0,0.051,0.066
+😡,pouting face,0.21,0.36,0,0.033,0.048
+😢,crying face,0.7,1,0,0.024,0.048
+😣,persevering face,0.538,0.64,0.33,0.084,0
+😤,face with steam from nose,0.184,0.25,0.25,0.033,0.018
+😥,sad but relieved face,0.522,0.81,0.19,0.078,0.06
+😨,fearful face,0.806,0.56,0.03,0.117,0.234
+😩,weary face,0.582,0.75,0.25,0.075,0.084
+😪,sleepy face,0.424,0.64,0.36,0.024,0.036
+😫,tired face,0.39,0.72,0.28,0.119,0.08
+😬,grimacing face,0.308,0.11,0.47,0.278,0.218
+😭,loudly crying face,0.598,1,0,0.024,0.048
+😰,anxious face with sweat,0.774,0.69,0.17,0.093,0.048
+😱,face screaming in fear,0.652,0.25,0.08,0.168,0.438
+😳,flushed face,0.376,0.19,0.5,0.206,0.32
+😴,sleeping face,0.012,0.03,0.86,0.039,0.012
+😶,face without mouth,0.272,0.14,0.64,0.066,0.114
+😷,face with medical mask,0.388,0.22,0.47,0.051,0.018
+😹,cat with tears of joy,0,0,0.0600000000000001,0.709,0.46
+😻,smiling cat with heart-eyes,0.024,0.06,0.25,0.651,0.498
+🙅,person gesturing NO,0.33,0.33,0.47,0.117,0.09
+🙆,person gesturing OK,0,0,0.39,0.372,0.174
+🙈,see-no-evil monkey,0.114,0.03,0.5,0.313,0.412
+🙊,speak-no-evil monkey,0.314,0.08,0.53,0.23,0.308
+🙋,person raising hand,0,0,0.47,0.467,0.29
+🙌,raising hands,0,0,0.28,0.603,0.522
+🙏,folded hands,0.11,0.11,0.42,0.307,0.202
+‼,double exclamation mark,0.036,0,0.11,0.224,0.59
+↩,right arrow curving left,0,0,0.92,0.018,0
+↪,left arrow curving right,0,0,0.81,0.057,0
+▶,play button,0,0,0.92,0.045,0.012
+◀,reverse button,0,0,0.89,0.018,0.036
+☀,sun,0,0,0.56,0.374,0.212
+☑,check box with check,0,0,0.53,0.241,0.1
+☝,index pointing up,0.11,0.11,0.69,0.114,0.012
+☺,smiling face,0,0,0,0.826,0.634
+♥,heart suit,0,0,0.28,0.588,0.354
+♻,recycling symbol,0.012,0.03,0.72,0.078,0.012
+⚡,high voltage,0.15,0,0.64,0.149,0.248
+⚽,soccer ball,0.036,0,0.67,0.274,0.1
+✅,check mark button,0,0,0.67,0.226,0.076
+✈,airplane,0.11,0.11,0.56,0.328,0.226
+✊,raised fist,0.11,0.11,0.5,0.171,0.06
+✋,raised hand,0.09,0.06,0.72,0.117,0.072
+✌,victory hand,0,0,0.39,0.553,0.346
+✔,check mark,0,0,0.64,0.173,0.056
+✨,sparkles,0.036,0,0.47,0.479,0.476
+❄,snowflake,0.158,0.14,0.67,0.295,0.244
+❌,cross mark,0.274,0.31,0.42,0.042,0.048
+❗,exclamation mark,0.32,0.17,0.19,0.182,0.518
+❤,red heart,0,0,0.31,0.591,0.36
+➡,right arrow,0,0,0.78,0.018,0
+⬅,left arrow,0.14,0.14,0.83,0.042,0.018
+⭐,star,0,0,0.61,0.324,0.258
